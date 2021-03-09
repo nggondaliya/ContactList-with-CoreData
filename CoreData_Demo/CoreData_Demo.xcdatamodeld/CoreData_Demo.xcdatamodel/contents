@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="TblUser" representedClassName="TblUser" syncable="YES" codeGenerationType="class">
+        <attribute name="company" optional="YES" attributeType="String"/>
+        <attribute name="emails" optional="YES" attributeType="Transformable"/>
+        <attribute name="fname" optional="YES" attributeType="String"/>
+        <attribute name="lname" optional="YES" attributeType="String"/>
+        <attribute name="phones" optional="YES" attributeType="Transformable"/>
+        <attribute name="profileImage" optional="YES" attributeType="Binary"/>
+    </entity>
+    <elements>
+        <element name="TblUser" positionX="-42.15625" positionY="-200.19140625" width="90.7421875" height="133"/>
+    </elements>
+</model>
